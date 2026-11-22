@@ -1,0 +1,59 @@
+[
+  {
+    "_id": "local_1795356165966",
+    "chatId": "chat_1795356165964_2hu88h",
+    "title": "Explain the benefits of streaming A...",
+    "messages": [
+      {
+        "id": "msg_usr_1795356166014_tv33k",
+        "role": "user",
+        "content": "Explain the benefits of streaming AI responses with SSE.",
+        "tone": "Professional",
+        "timestamp": "07:32 PM",
+        "createdAt": "2026-11-22T14:02:45.995Z"
+      },
+      {
+        "id": "msg_ast_1795356167220_egg6a",
+        "role": "assistant",
+        "content": "Thank you for your prompt regarding: \"Explain the benefits of streaming AI responses with SSE.\".\n\nThe AIChatbot backend has successfully established a Server-Sent Events (SSE) streaming channel.\n\nTo enable live completions directly from OpenAI's models, configure your OPENAI_API_KEY in server/.env.",
+        "tone": "Professional",
+        "timestamp": "07:32 PM",
+        "createdAt": "2026-11-22T14:02:47.219Z"
+      },
+      {
+        "id": "msg_usr_1795356167225_ukar0",
+        "role": "user",
+        "content": "Tell me about React hooks.",
+        "tone": "Casual",
+        "timestamp": "07:32 PM",
+        "createdAt": "2026-11-22T14:02:47.225Z"
+      },
+      {
+        "id": "msg_ast_1795356168312_hgvel",
+        "role": "assistant",
+        "content": "Hey there! I got your message: \"Tell me about React hooks.\".\n\nThe streaming response system is working great. To get live answers from OpenAI, just paste your API key into server/.env and you're good to go!",
+        "tone": "Casual",
+        "timestamp": "07:32 PM",
+        "createdAt": "2026-11-22T14:02:48.311Z"
+      },
+      {
+        "id": "msg_usr_1795356168319_o66z7",
+        "role": "user",
+        "content": "List 3 reasons to use TypeScript.",
+        "tone": "Concise",
+        "timestamp": "07:32 PM",
+        "createdAt": "2026-11-22T14:02:48.319Z"
+      },
+      {
+        "id": "msg_ast_1795356170261_ky4as",
+        "role": "assistant",
+        "content": "Thank you for your prompt regarding: \"List 3 reasons to use TypeScript.\".\n\nThe AIChatbot backend has successfully established a Server-Sent Events (SSE) streaming channel.\n\nTo enable live completions directly from OpenAI's models, configure your OPENAI_API_KEY in server/.env.",
+        "tone": "Professional",
+        "timestamp": "07:32 PM",
+        "createdAt": "2026-11-22T14:02:50.261Z"
+      }
+    ],
+    "createdAt": "2026-11-22T14:02:45.965Z",
+    "updatedAt": "2026-11-22T14:02:50.261Z"
+  }
+]
